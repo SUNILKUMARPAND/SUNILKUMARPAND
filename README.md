@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm a **Frontend Developer with 2+ years of experience specializing in React.js**. I enjoy building modern, scalable, and user-friendly web applications with a strong focus on performance and clean code.
+Hi, I'm a **React.js Frontend Developer with 3+ years of experience specializing in React.js**. I enjoy building modern, scalable, and user-friendly web applications with a strong focus on performance and clean code.
 
 I have experience developing reusable components, integrating REST APIs, and creating responsive UI for web applications. I’m passionate about learning new technologies and improving my frontend development skills.
 
